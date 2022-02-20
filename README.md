@@ -1,9 +1,5 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Gurin Mihail 👨‍💻
-
-
-
-- 👋 Hi, I’m @Missshanya21  
 - 💻 I’m interested in web developing 
 - 📫 How to reach me mike.gurin21@gmail.com
 
