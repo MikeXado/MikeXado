@@ -1,6 +1,20 @@
 <p align="center">
   <img src="https://github.com/MikeXado/MikeXado/blob/main/ASSETS/ezgif.com-gif-maker.gif" alt="Hi, I'm Mihai 👋 I'm a 🚀 Front-End Developer 🚀">
 </p>
+
+Find out more about me & feel free to connect with me here:
+
+<p align="center">
+        <a href="#">
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
+	<a href="#">
+		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
+	</a>
+        <a href="#">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
  
  <h2>Tools & Technologies</h2>
 
