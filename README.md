@@ -1,5 +1,7 @@
-
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Gurin Mihail 👨‍💻
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+#
 - 💻 I’m interested in web developing 
 - 📫 How to reach me mike.gurin21@gmail.com
 
