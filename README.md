@@ -61,4 +61,4 @@ The answer is quite simple ---- if you have a website template on figma or photo
 <img src="https://img.shields.io/badge/UBUNTU%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
 <hr>
 
-
+ <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeXado&layout=compact&hide_border=true&theme=radical" />
