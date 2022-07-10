@@ -17,11 +17,11 @@ The answer is quite simple ---- if you have a website template on figma or photo
 - Template analysis 
 - Makeup of the site according to the layout (here I use gulp + webpack as a project builder, and scss for styles ---for scripts I can use jquery or pure js )
 - After the layout is ready, I remove everything unnecessary to fully optimize it. I also forgot to mention that my build of gulp can convert images to webp format, which is much faster and offer 26% smaller file size than PNG. Also it can  compress large images without loss of quality, but with a cool plus for website speed.Also it can minify all script and styles.
-- Next comes the CMS, here I'm crawling Wordpress as a more popular. I pull the entire layout on it with full integration of the fields (Here I crawl ACF). This gives the administrator the ability to further edit any content on the site from pictures to large blocks (I do all this on my local network).
+- Next comes the CMS, here I сhose Wordpress as a more popular. I pull the entire layout on it,  with full integration of the fields (for these i chose ACF plugin). This gives the administrator the ability to further edit any content on the site from pictures to large blocks (I do all this on my local network).
 - Then I put this entire worpress project on hosting .I give you access to it, then you can do whatever you want with it 
 
 	
-Find out more about me & feel free to connect with me here:
+## Find out more about me & feel free to connect with me here:
 
 <p align="center">
         <a href="#">
@@ -34,6 +34,8 @@ Find out more about me & feel free to connect with me here:
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
+
+
  
  <h2>Tools & Technologies</h2>
 
