@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="[https://github.com/matyo91/matyo91/raw/main/assets/github.gif](https://github.com/MikeXado/MikeXado/blob/main/ASSETS/ezgif.com-gif-maker.gif)" alt="Hi, I'm Mihai 👋 I'm a 🚀 Front-End Developer 🚀">
 </p>
 #
 - 💻 I’m interested in web developing 
