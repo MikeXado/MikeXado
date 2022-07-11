@@ -28,7 +28,7 @@ The answer is quite simple ---- if you have a website template on figma or photo
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="#">
-		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
+		<img src="https://img.shields.io/badge/bio-000000%7D?style=for-the-badge&logo=bio&logoColor=white" />
 	</a>
         <a href="#">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
