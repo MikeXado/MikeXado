@@ -48,3 +48,6 @@ The answer is quite simple ---- if you have a website template on figma or photo
 <img src="https://img.shields.io/badge/UBUNTU%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
 <hr>
 
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeXado&show_icons=true&theme=gruvbox)
+
+
