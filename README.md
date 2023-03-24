@@ -15,7 +15,7 @@ But my skills don't end here, i also have experience on projects like <b>e-comme
 ## Find out more about me & feel free to connect with me here:
 
 <p align="center">
-        <a href="https://mikexado.github.io/Portofolio/">
+        <a href="https://portfolio-website-mikexado.vercel.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
         <a href="mailto:mike.gurin21@gmail.com">
