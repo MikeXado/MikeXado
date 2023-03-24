@@ -6,9 +6,6 @@ Hello,
 Thank you for checking out my profile , here is a quick overview of my skills . I am a well organized person,in love with REACT.JS ,motivated one hundred percent in achieving any goal. The key to my success is <b>fast learning that leads to   outstanding results </b>.<br><br> I have a rule that <b>"even if I don't know how to do something at the moment, I'm more likely to get out of my skin than to give up and not find a solution"</b>
 <br>
 <br>
-<i>So after all that said, the question arises, why me?</i>
-<br>
-The answer is quite simple ---- if you have a website template on figma or photoshop, I am the person who can turn this template into code, then customize it on a CMS(Content Management System) and finally publish it on a hosting. <b>Quick && easy</b>
 <br>
 But my skills don't end here, i also have experience on projects like <b>e-commerce</b> websites , <b>chat app</b> with connection of <b>cloud database</b> and <b>user authentification</b>
 <br>
