@@ -4,7 +4,7 @@ Hi 👋 My name is Gurin Mihail
 Fullstack Developer
 -------------------
 
-Hello, Thank you for checking out my profile , here is a quick overview of my skills . I am a well organized person,in love with NEXT.JS ,motivated one hundred percent in achieving any goal. The key to my success is fast learning that leads to outstanding results . I have a rule that "even if I don't know how to do something at the moment, I'm more likely to get out of my skin than to give up and not find a solution" But my skills don't end here, i also have experience on projects like e-commerce websites , admin dashboard along with landing page , connecting via docker using different databases and ORM's, and all this connected together in a scalable monorepo
+Hello, Thank you for checking out my profile , here is a quick overview of my skills . I am a well organized person,in love with NEXT.JS ,motivated one hundred percent in achieving any goal. The key to my success is fast learning that leads to outstanding results . I have a rule that "even if I don't know how to do something at the moment, I'm more likely to get out of my skin than to give up and not find a solution" But my skills don't end here, i also have experience on projects like e-commerce websites , admin dashboard along with landing page , connecting via docker using different databases and ORM's, and all this connected together in a scalable microservices arhitecture
 
 * 🌍  I'm based in Chisinau/Moldova
 * 🖥️  See my portfolio at [geekifiedMike](http://https://geekified-mike.vercel.app/)
