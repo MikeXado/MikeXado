@@ -27,16 +27,17 @@ Hello, Thank you for checking out my profile , here is a quick overview of my sk
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24923%26project%3D%26in=0)](https://codetime.dev)
 
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MikeXado"><img src="https://github-readme-stats.vercel.app/api?username=MikeXado&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MikeXado's GitHub stats" /></a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=MikeXado&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=MikeXado&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
-<a href="http://www.github.com/MikeXado"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeXado&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=MikeXado&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=MikeXado&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+
 
 ### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/geekifiedmike"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<div style="display:block;margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/geekifiedmike"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></div>
