@@ -24,10 +24,6 @@ Hello, Thank you for checking out my profile , here is a quick overview of my sk
 
 ### Badges
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24923%26project%3D%26in=0)](https://codetime.dev)
-
-
-
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=MikeXado&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
